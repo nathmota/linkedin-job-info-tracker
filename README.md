@@ -1,2 +1,2 @@
 # linkedinjobinfotracker
-LinkedIn Jog Info Tracker
+LinkedIn Job Info Tracker
